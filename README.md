@@ -9,3 +9,6 @@ https://doi.org/10.37689/acta-ape/2021AO00852
 
 ## Link OneDrive
 https://1drv.ms/f/s!ArQp3xgchRHTg4oWEHhCoF8kURFwhA?e=U2dEKG
+
+## Sinasc (2016-2020 parquet)
+https://1drv.ms/f/s!AoHlooexwrwvhc04WXFf6CEvtlHGOA?e=M19qgl
