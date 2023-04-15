@@ -11,5 +11,6 @@ https://doi.org/10.37689/acta-ape/2021AO00852
 https://1drv.ms/f/s!ArQp3xgchRHTg4oWEHhCoF8kURFwhA?e=U2dEKG
 
 ## Datasets
+geoses             -> data/geoses  
 sim (2016-2020)    -> data/sim/*  
 sinasc (2016-2020) -> data/sinasc/*
